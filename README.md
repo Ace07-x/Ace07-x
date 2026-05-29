@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ace07-x
-- 👀 I’m interested in ...Web Desinging
-- 🌱 I’m currently learning ...Mongoose
+- 👀 I’m interested in ... Information Systems
+- 🌱 I’m currently learning ... how todevelop websites through vibe coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
